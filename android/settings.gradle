@@ -1,2 +1,2 @@
+include 'src.main', ':alipay', ':oppwa.mobile'
 rootProject.name = 'flutter_peachpay_plugin'
-include ':alipay', ':oppwa.mobile'
