@@ -1,0 +1,4 @@
+package oppwa.mobile
+
+configurations.maybeCreate("default")
+artifacts.add("default", file('oppwa.mobile.aar'))

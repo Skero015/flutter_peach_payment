@@ -1,0 +1,4 @@
+package alipay
+
+configurations.maybeCreate("default")
+artifacts.add("default", file('alipaySdk-15.5.9.aar'))
